@@ -1,4 +1,4 @@
-# RDR2_Photomode_JPEG
+# RDR2 Photomode JPEG
 A simple bash script for converting RDR2 photomode images.
 
 Copy your RDR2 image files (usualy at `C:\Users\[username]\Documents\Rockstar Games\Red Dead Redemption 2\Profiles\[profile number]`), all files starting with "PRDR".
